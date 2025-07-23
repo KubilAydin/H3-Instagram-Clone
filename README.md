@@ -1,6 +1,6 @@
 # Instagram Clone
 ## Github page ile yayınlandı.
-### [Bu link ile ulaşabilirsiniz]()
+### [Bu link ile ulaşabilirsiniz](https://kubilaydin.github.io/H3-Instagram-Clone/)
 ## Blog Sitesinde Yapılanlar
 * Font Awesome Kütüphanesi Kullanıldı. 
 * Bootstrap5 Kütüphanesi Kullanıldı.
